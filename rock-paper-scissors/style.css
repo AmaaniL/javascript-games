@@ -1,0 +1,22 @@
+
+.button-1 {
+  background-color: whitesmoke;
+  border-radius: 3px;
+  border-color: green;
+  box-sizing: border-box;
+  color: black;
+  padding: 10px 16px;
+
+}
+
+.button-2 {
+    background-color: green;
+    border-radius: 3px;
+    border-color: black;
+    box-sizing: border-box;
+    color: whitesmoke;
+    padding: 10px 16px;
+  
+  }
+  
+
